@@ -1,0 +1,9 @@
+c:\users\francesco\documents\visual studio 2012\Projects\UDP_tester\UDP_tester\bin\Debug\UDP_tester.exe.config
+c:\users\francesco\documents\visual studio 2012\Projects\UDP_tester\UDP_tester\bin\Debug\UDP_tester.exe
+c:\users\francesco\documents\visual studio 2012\Projects\UDP_tester\UDP_tester\bin\Debug\UDP_tester.pdb
+c:\users\francesco\documents\visual studio 2012\Projects\UDP_tester\UDP_tester\obj\Debug\UDP_tester.csprojResolveAssemblyReference.cache
+c:\users\francesco\documents\visual studio 2012\Projects\UDP_tester\UDP_tester\obj\Debug\UDP_tester.Form1.resources
+c:\users\francesco\documents\visual studio 2012\Projects\UDP_tester\UDP_tester\obj\Debug\UDP_tester.Properties.Resources.resources
+c:\users\francesco\documents\visual studio 2012\Projects\UDP_tester\UDP_tester\obj\Debug\UDP_tester.csproj.GenerateResource.Cache
+c:\users\francesco\documents\visual studio 2012\Projects\UDP_tester\UDP_tester\obj\Debug\UDP_tester.exe
+c:\users\francesco\documents\visual studio 2012\Projects\UDP_tester\UDP_tester\obj\Debug\UDP_tester.pdb
